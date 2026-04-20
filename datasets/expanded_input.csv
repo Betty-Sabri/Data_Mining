@@ -1,0 +1,10 @@
+student_id,student_name,gender,major,course_id,course_name,department,semester_id,term,year,instructor_id,instructor_name,instructor_dept,avg_grade
+1,A,F,English,101,Eng,Humanities,301,Spring,2023,201,X,Humanities,76
+2,B,M,Computer Science,102,CS,Engineering,301,Spring,2023,202,Y,Engineering,66
+3,C,F,Computer Science,102,CS,Engineering,301,Spring,2023,202,Y,Engineering,91
+2,B,M,Computer Science,102,CS,Engineering,302,Fall,2023,203,Z,Engineering,57
+3,C,F,Computer Science,102,CS,Engineering,302,Fall,2023,203,Z,Engineering,88
+1,A,F,English,101,Eng,Humanities,302,Fall,2023,201,X,Humanities,84
+2,B,M,Computer Science,102,CS,Engineering,303,Spring,2024,202,Y,Engineering,51
+1,A,F,English,101,Eng,Humanities,303,Spring,2024,201,X,Humanities,61
+3,C,F,Computer Science,102,CS,Engineering,303,Spring,2024,202,Y,Engineering,81
